@@ -1,14 +1,24 @@
 {
-    "savedNotes": [
-        {
-            "title": "Test Title",
-            "text": "Test text"
-        },
-        {
-            "title": "blah",
-            "text": "Blahbitty blah blah"
-        }
-    ]
+  "note": [
+    {
+      "title": "Test Title",
+      "text": "Test text"
+    },
+    {
+      "title": "blah",
+      "text": "Blahbitty blah blah"
+    },
+    {
+      "title": "post it",
+      "text": "this is my post it test"
+    },
+    {
+      "title": "another post test",
+      "text": "woohoo, it worked"
+    },
+    {
+      "title": "post test: the postening",
+      "text": "backend? where?"
+    }
+  ]
 }
-
-
