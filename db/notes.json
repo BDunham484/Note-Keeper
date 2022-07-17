@@ -1,5 +1,5 @@
 {
-  "note": [
+  "savedNotes": [
     {
       "title": "Test Title",
       "text": "Test text"
@@ -19,6 +19,46 @@
     {
       "title": "post test: the postening",
       "text": "backend? where?"
+    },
+    {
+      "title": "next notice",
+      "text": "you've been served"
+    },
+    {
+      "title": "what to do",
+      "text": "eat ice cream"
+    },
+    {
+      "title": "sfdgsdfgsdfg",
+      "text": ""
+    },
+    {
+      "title": "notes notes",
+      "text": ""
+    },
+    {
+      "title": "zxcvzxsdfagadfg",
+      "text": "fsdgsdfg"
+    },
+    {
+      "title": "class notes",
+      "text": "notesnotesnotesnotes"
+    },
+    {
+      "title": "note",
+      "text": "noteeenotenote"
+    },
+    {
+      "title": "Nooooote",
+      "text": "Look at all this note.\n"
+    },
+    {
+      "title": "barf",
+      "text": "barbity barf barf"
+    },
+    {
+      "title": "c'mon man",
+      "text": "fingers crossed"
     }
   ]
 }
