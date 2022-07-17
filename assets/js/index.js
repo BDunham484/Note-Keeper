@@ -1,10 +1,11 @@
+
+
 let noteTitle;
 let noteText;
 let saveNoteBtn;
 let newNoteBtn;
 let noteList;
 
-console.log(window.location.pathname);
 if (window.location.pathname === '/notes.html') {
     noteTitle = document.querySelector('.note-title');
     noteText = document.querySelector('.note-textarea');
@@ -71,6 +72,7 @@ const handleNoteSave = () => {
     const newNote = {
         title: noteTitle.value,
         text: noteText.value,
+        id: noteTitle.value
     };
     saveNote(newNote).then(() => {
         getAndRenderNotes();
@@ -182,3 +184,5 @@ if (window.location.pathname === '/notes.html') {
 }
 
 getAndRenderNotes();
+
+
