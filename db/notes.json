@@ -1,3 +1,19 @@
 {
-  "savedNotes": []
+  "savedNotes": [
+    {
+      "title": "Very Important Note",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam facilis consequuntur, iure hic iste, inventore tempore quia mollitia ex itaque asperiores! Ex officiis dolor similique! Incidunt sed, numquam illo rerum error hic nesciunt odio sequi animi eveniet molestiae minus iusto sit nisi optio similique deserunt porro facilis, dignissimos unde blanditiis? ",
+      "id": "VeryImportantNote0"
+    },
+    {
+      "title": "Reminder to do that thing",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam facilis consequuntur, iure hic iste, inventore tempore quia mollitia ex itaque asperiores! Ex officiis dolor similique! Incidunt sed, numquam illo rerum error hic nesciunt odio sequi animi eveniet molestiae minus iusto sit nisi optio similique deserunt porro facilis, dignissimos unde blanditiis? ",
+      "id": "Remindertodothatthing1"
+    },
+    {
+      "title": "On second thought",
+      "text": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam facilis consequuntur, iure hic iste, inventore tempore quia mollitia ex itaque asperiores! Ex officiis dolor similique! Incidunt sed, numquam illo rerum error hic nesciunt odio sequi animi eveniet molestiae minus iusto sit nisi optio similique deserunt porro facilis, dignissimos unde blanditiis? ",
+      "id": "Onsecondthought2"
+    }
+  ]
 }
