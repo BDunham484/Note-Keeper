@@ -9,6 +9,13 @@
 
 * <a href='https://www.github.com/BDunham484/Note-Keeper'>https://www.github.com/BDunham484/Note-Keeper</a>
 
+## Made With:
+
+* HTML
+* css
+* JavaScript
+* Node.js
+* Express.js
 
 ## Code Contributors
 
@@ -16,11 +23,6 @@
 
 * Brad Dunham
 
-## Questions?
 
-* If you have any questions you can find me here: <https://www.github.com/BDunham484>
-* You can also reach me here: bdunham484@gmail.com
-
-Back to [top of page](# )
 
     
