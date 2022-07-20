@@ -7,7 +7,9 @@
 
 ![Note-Keeper](./public/assets/images/note-keeper.png)
 
-* <a href='https://www.github.com/BDunham484/Note-Keeper'>https://www.github.com/BDunham484/Note-Keeper</a>
+## URL:
+
+* <a href='https://pure-peak-34932.herokuapp.com/notes.html'>https://pure-peak-34932.herokuapp.com/notes.html</a>
 
 ## Usage:
 
