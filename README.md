@@ -9,7 +9,7 @@
 
 ## URL:
 
-* <a href='https://pure-peak-34932.herokuapp.com/notes.html'>https://pure-peak-34932.herokuapp.com/notes.html</a>
+* <a href='https://pure-peak-34932.herokuapp.com'>https://pure-peak-34932.herokuapp.com</a>
 
 ## Usage:
 
