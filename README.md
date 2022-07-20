@@ -9,37 +9,13 @@
 
 * <a href='https://www.github.com/BDunham484/Note-Keeper'>https://www.github.com/BDunham484/Note-Keeper</a>
 
-## Table of Contents
+## Made With:
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [Code Contributors](#code-contributors)
-- [Contributing](#contributing)
-- [Test](#test)
-- [Questions](#questions)
-
-## Installation
-
-
-
-
-Back to [top of page](# )
-
-## Usage
-
-* 
-
-
-
-Back to [top of page](# )
-
-## License
-
-* This application is covered under the <a href='https://opensource.org/licenses/MIT'>MIT License</a>.
-
-Back to [top of page](# )
-
+* HTML
+* css
+* JavaScript
+* Node.js
+* Express.js
 
 ## Code Contributors
 
@@ -48,28 +24,5 @@ Back to [top of page](# )
 * Brad Dunham
 
 
-
-Back to [top of page](# )
-
-## Contributing
-
-Submit an issue.
-
-Back to [top of page](# )
-
-## Test
-
-* No TDD at this time.
-
-
-
-Back to [top of page](# )
-
-## Questions?
-
-* If you have any questions you can find me here: <https://www.github.com/BDunham484>
-* You can also reach me here: bdunham484@gmail.com
-
-Back to [top of page](# )
 
     
